@@ -4,7 +4,7 @@ const brief = () => {
   return (
     <div className=' mx-60 mt-30 mb-10 '>
     
-        <div className=' flex '>
+        <div className=' flex bg-pink-400 rounded-2xl p-2'>
 
             <div className=' w-2/3 '>
                 <h1 className=' text-3xl font-bold mt-10 mb-10'>
